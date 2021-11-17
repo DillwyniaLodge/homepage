@@ -54,7 +54,11 @@ button:hover{
 .content{
 	color: rgba(8, 8, 8, 1.0);
 	text-align: center;
-	/* position: center; */
+	max-width: 600px;
+	/* width: 50%; */
+	position: center;
+	/* justify-content: space-between; */
+	padding: 5% 30%;
 	/* top: 50%; */
 	/* left: 8%; */
 	/* transform: translateY(-50%); */
