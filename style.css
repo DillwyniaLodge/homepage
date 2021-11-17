@@ -6,7 +6,7 @@
 }
 .hero{
 	width: 100%;
-	height: 100vh;
+	height: 100%;
 	background-image: url(images/325355155.jpg);
 	background-size: cover;
 	background-position: centre;
@@ -17,9 +17,17 @@
 	width: 45%;
 	/* cursor: pointer; */
 }
-.navbar{
+.navbar1{
 	width: 65%;
-	height: 100%;
+	height: 50%;
+	margin: auto;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.navbar2{
+	width: 30%;
+	height: 30%;
 	margin: auto;
 	display: flex;
 	align-items: center;
@@ -28,7 +36,7 @@
 .box{
 	width: 100%;
 	height: 25%;
-	background: rgba(8, 8, 8, 0.6);
+	background: rgba(8, 8, 8, 0.65);
 }
 button{
 	color: #fbfcfd;
@@ -49,5 +57,5 @@ button:hover{
 	/* top: 50%; */
 	/* left: 8%; */
 	/* transform: translateY(-50%); */
-	/* z-index:2; */
+	z-index:2;
 }
