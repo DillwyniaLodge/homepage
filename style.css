@@ -54,6 +54,7 @@ button:hover{
 }
 .a {
 	cursor: pointer;
+	float: auto;
 }
 .content{
 	color: rgba(8, 8, 8, 1.0);
