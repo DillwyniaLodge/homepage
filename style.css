@@ -7,9 +7,9 @@
 .hero{
 	max-width: 100%;
 	height: 100%;
-	background-image: url(images/325355155.jpg);
+	/* background-image: url(images/325355155.jpg);
 	background-size: cover;
-	background-position: centre;
+	background-position: centre; */
 	position: top;
 	overflow: hidden;
 }
