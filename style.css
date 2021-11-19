@@ -108,6 +108,7 @@ button:hover{
 		align-items: center;
 		justify-content: space-between;
 		overflow-wrap: break-word;
+		space-between: 2px;
 	}
 	.a {
 		justify-content: flex;
