@@ -33,7 +33,7 @@
 	display: flex;
 	align-items: center;
 	max-width: 600px;
-	justify-content: space-between;
+	/*justify-content: space-between;*/
 }
 .box{
 	width: 100%;
@@ -55,7 +55,7 @@ button:hover{
 }
 .a {
 	cursor: pointer;
-	float: auto;
+	/*float: auto;*/
 }
 .content{
 	color: rgba(8, 8, 8, 1.0);
@@ -108,7 +108,6 @@ button:hover{
 		display: flex;
 		align-items: center;
 		justify-content: space-between;
-		overflow-wrap: break-word;
 		space-between: 2px;
 	}
 	.a {
