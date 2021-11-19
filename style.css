@@ -106,6 +106,7 @@ button:hover{
 		display: flex;
 		align-items: center;
 		justify-content: space-between;
+		overflow-wrap: break-word;
 	}
 	.a {
 		justify-content: flex;
