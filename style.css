@@ -31,7 +31,7 @@
 	height: 15%;
 	margin: auto;
 	display: flex;
-	align-content: center;
+	align-content: left;
 	max-width: 600px;
 	/*justify-content: space-between;*/
 }
