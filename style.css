@@ -66,6 +66,19 @@ button:hover{
 	/* transform: translateY(-50%); */
 	/* z-index:2; */
 }
+.map {
+	overflow: hidden;
+	padding-bottom: 56.25%;
+	position: relative;
+	height: 0;
+}
+.map iframe{
+	left: 0;
+	top: 0;
+	height: 100%;
+	width: 100%;
+	position: absolute;
+}
 @media (orientation: portrait) {
 	.hero {
 		max-width: 100%;
