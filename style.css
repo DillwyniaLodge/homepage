@@ -71,9 +71,11 @@ button:hover{
 .map {
 	overflow: hidden;
 	padding-bottom: 56.25%;
-	position: relative;
+	position: center;
 	height: 600;
 	width: 450;
+	margin-left: auto;
+	margin-right: auto;
 }
 @media (orientation: portrait) {
 	.hero {
