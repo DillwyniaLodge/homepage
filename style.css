@@ -27,11 +27,11 @@
 	justify-content: center;
 }
 .navbar2{
-	width: 40%;
+	width: 10%;
 	height: 15%;
 	margin: auto;
 	display: flex;
-	align-items: center;
+	align-content: center;
 	max-width: 600px;
 	/*justify-content: space-between;*/
 }
@@ -40,7 +40,7 @@
 	height: 15%;
 	margin: auto;
 	display: flex;
-	align-items: center;
+	align-content: center;
 	max-width: 600px;
 	justify-content: space-between;
 }
@@ -116,7 +116,7 @@ button:hover{
 		height: 10%;
 		margin: auto;
 		display: flex;
-		align-items: center;
+		align-content: center;
 		justify-content: space-between;
 	}
 	.navbar3 {
@@ -125,7 +125,7 @@ button:hover{
 		height: 10%;
 		margin: auto;
 		display: flex;
-		align-items: center;
+		align-content: center;
 		justify-content: space-between;
 	}
 	.a {
