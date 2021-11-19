@@ -107,11 +107,14 @@ button:hover{
 		align-items: center;
 		justify-content: space-between;
 	}
+	.a {
+		justify-content: flex;
+	}
 	.map {
-	/*left: 0;
-	top: 0;*/
-	height: 225;
-	width: 300;
-	position: center;
+		/*left: 0;
+		top: 0;*/
+		height: 225;
+		width: 300;
+		position: center;
 	}
 }
