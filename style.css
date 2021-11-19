@@ -14,8 +14,8 @@
 	overflow: hidden;
 }
 .logo{
-	height: 10%;
-	max-width: 70%;
+	max-height: 10%;
+	max-width: 60%;
 	/* cursor: pointer; */
 }
 .navbar1{
