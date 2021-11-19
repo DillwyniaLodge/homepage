@@ -15,7 +15,7 @@
 }
 .logo{
 	/*width: 45%;*/
-	height: 70%;
+	height: 30%;
 	/* cursor: pointer; */
 }
 .navbar1{
@@ -28,12 +28,21 @@
 }
 .navbar2{
 	width: 40%;
-	height: 30%;
+	height: 15%;
 	margin: auto;
 	display: flex;
 	align-items: center;
 	max-width: 600px;
 	/*justify-content: space-between;*/
+}
+.navbar3{
+	width: 40%;
+	height: 15%;
+	margin: auto;
+	display: flex;
+	align-items: center;
+	max-width: 600px;
+	justify-content: space-between;
 }
 .box{
 	width: 100%;
@@ -103,12 +112,20 @@ button:hover{
 	.navbar2 {
 		width: 70%;
 		max-width: 100%;
-		height: 10%;
+		height: 15%;
 		margin: auto;
 		display: flex;
 		align-items: center;
 		justify-content: space-between;
-		space-between: 2px;
+	}
+	.navbar2 {
+		width: 70%;
+		max-width: 100%;
+		height: 15%;
+		margin: auto;
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
 	}
 	.a {
 		justify-content: flex;
