@@ -35,7 +35,7 @@
 	/*justify-content: space-between;*/
 }
 .navbar3{
-	width: 40%;
+	width: 30%;
 	height: 15%;
 	margin: auto;
 	display: flex;
@@ -106,12 +106,12 @@ button:hover{
 		height: 20%;
 	}
 	.logo {
-		height: 100%;
+		height: 70%;
 	}
 	.navbar2 {
 		width: 70%;
 		max-width: 100%;
-		height: 15%;
+		height: 10%;
 		margin: auto;
 		display: flex;
 		align-items: center;
@@ -119,8 +119,8 @@ button:hover{
 	}
 	.navbar3 {
 		width: 70%;
-		max-width: 100%;
-		height: 15%;
+		max-width: 90%;
+		height: 10%;
 		margin: auto;
 		display: flex;
 		align-items: center;
